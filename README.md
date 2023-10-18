@@ -1,7 +1,7 @@
 ## ASP.NET Web API CRUD Operations using SQL Server Stored Procedures
 
 
-This repository contains a sample ASP.NET Web API project that demonstrates CRUD (Create, Read, Update, Delete) operations using SQL Server stored procedures. It is designed to showcase best practices for building RESTful APIs with ASP.NET while integrating with a SQL Server database.
+This repository contains a sample ASP.NET Web API project that demonstrates CRUD (Create, Read, Update, Delete) operations using SQL Server stored procedures. It is designed to showcase and document practices for building RESTful APIs with ASP.NET with a SQL Server database.
 
 ## Table of Contents
 
