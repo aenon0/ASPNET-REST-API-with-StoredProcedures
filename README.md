@@ -12,7 +12,7 @@ This repository contains a sample ASP.NET Web API project that demonstrates CRUD
 - [Running the Web API](#running-the-web-api)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [More Clarification]
+- [More Clarification](#clarification)
 
 ## Overview
 -This project is a practical example of creating a RESTful API using ASP.NET Web API that performs CRUD operations by interfacing with a SQL Server database through stored procedures. It serves as a reference for developers looking to implement these functionalities in their own projects.
